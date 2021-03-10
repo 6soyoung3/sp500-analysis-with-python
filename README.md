@@ -1,4 +1,4 @@
-# S&p500 analysis with python
+# S&P500 analysis with python
 
 ### Aim
 Understanding the key facts/affairs that happened from 90s to 20s and studying why and how in finance area by analysing s&p500
